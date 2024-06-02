@@ -1,0 +1,25 @@
+/* This will make 1rem to be equal to 10pxx */
+
+html {
+  font-size: 62.5%;
+}
+
+/* font-size back to 16px and 1 rem is 10px */
+
+body {
+  font-size: 1.6rem;
+}
+
+/* predefined margins prove to be useful */
+
+.margin-bt-sm {
+  margin-bottom: 0.8rem;
+}
+
+.margin-bt-md {
+  margin-bottom: 2.5rem;
+}
+
+.margin-bt-bg {
+  margin-bottom: 3.5rem;
+}
